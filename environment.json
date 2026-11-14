@@ -1,0 +1,28 @@
+{
+	"id": "0a50ca49-7240-4d32-924a-09d44a183774",
+	"name": "QA-Environment",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+},
+		{
+			"key": "authToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-11-14T14:11:11.154Z",
+	"_postman_exported_using": "Postman/12.34.0"
+}
